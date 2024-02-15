@@ -89,7 +89,7 @@ gitpython, pandas, plotly.express, streamlit, streamlit_option_menu, mysql.conne
   ![newplot (5)](https://github.com/Hari24-01/Phonephe_Pulse/assets/128268647/857aa86b-d522-4eba-bb51-388ec8dd1fd0)
 
   #### MAP PLOT:
-  * Transaction Percentage Each State and Districts from Year 2018 - 2023.
+  * Transaction Percentage of Each State and Districts from Year 2018 - 2023.
   ![newplot (6)](https://github.com/Hari24-01/Phonephe_Pulse/assets/128268647/df2fa475-3ede-46ca-948b-ad573eed7452)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
