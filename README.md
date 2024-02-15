@@ -39,7 +39,7 @@ gitpython, pandas, plotly.express, streamlit, streamlit_option_menu, mysql.conne
 * #### __STEP 1:__ Connecting To Github Repository For Data Extraction:
    Cloning the Phonepe Pulse Github repository with ["gitpython"](), then retrieving the data and saving it in the proper format (JSON or CSV).
 * #### __STEP 2:__ Data Cleaning:
-  Using [Python]() and [Pandas]() are used for data manipulation and pre-processing, which includes data cleansing, addressing missing values, and transforming data 
+  Using [Python](https://www.python.org/) and [Pandas]() are used for data manipulation and pre-processing, which includes data cleansing, addressing missing values, and transforming data 
   formats for analysis and visualisation.
 * #### __STEP 3:__ Data Insertion in MYSQL Server:
   The [mysql-connector-python]() Python package is used to connect to a MySQL database and insert converted data in JSON or CSV format using SQL commands.
