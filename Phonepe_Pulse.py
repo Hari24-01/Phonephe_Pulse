@@ -19,7 +19,7 @@ from sklearn import preprocessing
 #++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ 
 icon = Image.open(r"C:\Users\hsqua\Desktop\phonepe\Decorative\Splash-Icon.JPG")
 
-st.set_page_config(page_title= "PHONEPE PULSE | By J HARI HARAN",
+st.set_page_config(page_title= "PHONEPE PULSE ANALYSIS | By J HARI HARAN",
                    page_icon= icon,
                    layout= "wide",
                    initial_sidebar_state= "expanded",
