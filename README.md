@@ -24,19 +24,12 @@ The aim of this project is to create a Streamlit application with a visualisatio
 
 <!-- PLATFORMS USED -->
 ### PLATFORMS USED:
-* PYTHON
+
+* [PYTHON](https://www.python.org/)
 * [GITHUB CLONING](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-* XAMPP SQL
-* STREAMLIT
-* PLOTLY
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [XAMPP SQL](https://www.apachefriends.org/index.html)
+* [STREAMLIT](https://streamlit.io/)
+* [PLOTLY](https://plotly.com/python/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
   
@@ -47,7 +40,7 @@ gitpython, pandas, plotly.express, streamlit, streamlit_option_menu, mysql.conne
 <!-- PROCEDURE -->
 ### PROCEDURE:
 * #### __STEP 1:__ Connecting To Github Repository For Data Extraction:
-   Cloning the Phonepe Pulse Github repository with ["gitpython"](https://github.com/gitpython-developers/GitPython), then retrieving the data and saving it in the proper format (JSON or CSV).
+   Cloning the Phonepe Pulse Github repository with [gitpython](https://github.com/gitpython-developers/GitPython), then retrieving the data and saving it in the proper format (JSON or CSV).
 * #### __STEP 2:__ Data Cleaning:
   Using [Python](https://www.python.org/) and [Pandas](https://pandas.pydata.org/docs/getting_started/index.html) are used for data manipulation and pre-processing, 
   which includes data cleansing, addressing missing values, and transforming data 
